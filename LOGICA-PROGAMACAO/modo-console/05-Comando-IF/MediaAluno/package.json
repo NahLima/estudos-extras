@@ -1,0 +1,19 @@
+{
+  "name": "mediaaluno",
+  "version": "1.0.0",
+  "description": "calculadora de media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculo",
+    "de",
+    "media"
+  ],
+  "author": "naiara lima",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
